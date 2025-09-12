@@ -1,9 +1,9 @@
 # Proyek API Ulasan Film- Kelompok X
 
  ## Anggota Kelompok
- - Nama Anggota 1
+ - Muhammad Rakha Widya Ardhana_362458302092
  - Nicko Sugiarto_362458302119
- - Nama Anggota 3
+ - Febriyan Putra Haryadi_362458302042
 
  ## Deskripsi Proyek
  API ini adalah layanan internal untuk mengelola ulasan film dari Studio Ghibli,
