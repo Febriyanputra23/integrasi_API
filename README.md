@@ -18,6 +18,9 @@
  
  Server akan berjalan di 
  ‘http://localhost:3300‘.
+ 
+ <img width="768" height="199" alt="image" src="https://github.com/user-attachments/assets/329ec5c8-0624-47bd-b4b2-10ec0782d920" />
+
  - ‘GET /status‘: Cek status API.
    
    <img width="2559" height="1526" alt="Screenshot 2025-09-12 222234" src="https://github.com/user-attachments/assets/36680c08-0431-4e27-9912-152a46dcf69b" />
