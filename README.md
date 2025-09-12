@@ -10,10 +10,10 @@
  dengan data film yang direferensikan dari Ghibli API publik.
  
  ## Cara Menjalankan Proyek
- 1. Clone repository ini: ‘git clone ...‘
- 2. Masuk ke direktori: ‘cd NAMA-REPO‘
- 3. Install dependensi: ‘npm install‘
- 4. Jalankan server: ‘node server.js'
+ 1. Clone repository ini: ‘git clone https://github.com/Febriyanputra23/integrasi_API‘
+ 2. Masuk ke direktori: ‘cd integrasi_API‘
+ 3. Install dependensi: ‘npm install express cors‘
+ 4. Jalankan server: ‘nodemon server.js'
  ## Daftar Endpoint
  
  Server akan berjalan di 
