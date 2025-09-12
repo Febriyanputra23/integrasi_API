@@ -3,7 +3,7 @@
  ## Anggota Kelompok
  - Muhammad Rakha Widya Ardhana_362458302092
  - Nicko Sugiarto_362458302119
- - Febriyan Putra Haryadi_362458302042
+ - Febriyan Putra Hariadi_362458302042
 
  ## Deskripsi Proyek
  API ini adalah layanan internal untuk mengelola ulasan film dari Studio Ghibli,
