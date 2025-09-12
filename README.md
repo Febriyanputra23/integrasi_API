@@ -2,12 +2,11 @@
 
  ## Anggota Kelompok
  - Nama Anggota 1
- - Nama Anggota 2
+ - Nicko Sugiarto_362458302119
  - Nama Anggota 3
 
  ## Deskripsi Proyek
- API ini adalah layanan internal untuk mengelola ulasan film
- dari Studio Ghibli,
+ API ini adalah layanan internal untuk mengelola ulasan film dari Studio Ghibli,
  dengan data film yang direferensikan dari Ghibli API publik.
  
  ## Cara Menjalankan Proyek
