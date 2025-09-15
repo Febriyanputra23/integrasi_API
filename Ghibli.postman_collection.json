@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "83b44d7d-91e7-4c35-81ab-499a199880e6",
+		"name": "Ghibli",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47979527"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"filmId\": \"2baf70d1-42bb-4437-b551-e5fed5a87abe\",\r\n        \"user\": \"rakha, nicko, febriyan\",\r\n        \"rating\": 9,\r\n        \"comment\": \"Film animasi terbaik sepanjang masa!\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3300/reviews/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3300",
+					"path": [
+						"reviews",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"filmId\": \"2baf70d1-42bb-4437-b551-e5fed5a87abe\",\r\n        \"user\": \"rakha, nicko, febriyan\",\r\n        \"rating\": 9,\r\n        \"comment\": \"Film Action terbaik!\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3300/reviews/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3300",
+					"path": [
+						"reviews",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
